@@ -1,1 +1,7 @@
-qwerty
+{
+	"name": "Full name",
+	"surname": "Full name",
+	"age": 33,
+	"number of pets": "not yet",
+	"future desired salary": "163000$ in the year"
+}
